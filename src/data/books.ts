@@ -587,7 +587,8 @@ export const categories = [
   "Cloud Computing",
   "Cyber Security",
   "Computer Networking",
-  "Interview Preparation"
+  "Interview Preparation",
+  "Competitive Programming"
 ];
 
 export const languages = [
