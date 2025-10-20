@@ -316,17 +316,17 @@ export const books: Book[] = [
     tags: ["Machine Learning", "Pattern Recognition", "Theory"]
   },
   {
-    id: "ml-3",
-    title: "Deep Learning",
-    author: "Ian Goodfellow",
-    category: "Machine Learning",
-    language: "General",
-    pages: 775,
-    year: 2016,
-    description: "The definitive textbook on deep learning from MIT Press.",
-    downloadLink: "https://github.com/avinash201199/Free-programming-books/tree/main/Machine%20Learning",
-    level: "Advanced",
-    tags: ["Deep Learning", "Neural Networks", "AI"]
+  id: "ml-3",
+  title: "Deep Learning",
+  author: "Ian Goodfellow, Yoshua Bengio, Aaron Courville",
+  category: "Machine Learning",
+  language: "General",
+  pages: 801,
+  year: 2016,
+  description: "Deep Learning is one of the most widely recognized and authoritative books covering modern deep learning theory, algorithms, and applications.",
+  downloadLink: "https://github.com/avinash201199/Free-programming-books/tree/main/Machine%20Learning",
+  level: "Advanced",
+  tags: ["Deep Learning", "Neural Networks", "AI"]
   },
   {
   "id": "ml-4",
@@ -341,7 +341,34 @@ export const books: Book[] = [
   "downloadLink": "https://github.com/avinash201199/Free-programming-books/blob/main/Machine%20Learning/mathematics%20for%20ml.pdf",
   "tags": ["Machine Learning", "Mathematics", "Optimization", "ML Algorithms"],
   "featured": true
-},
+  },
+  {
+    id: "ml-6",
+    title: "Neural Networks",
+    author: "Simon Haykin",
+    category: "Machine Learning",
+    language: "General",
+    pages: 823,
+    year: 2005,
+    description: "Neural Networks: A Comprehensive Foundation is a complete guide to understanding, designing, and applying neural networks in theory and practice.",
+    downloadLink: "https://github.com/avinash201199/Free-programming-books/tree/main/Machine%20Learning",
+    level: "Advanced",
+    tags: ["Deep Learning", "Neural Networks", "AI"]
+  },
+  {
+    id: "ml-7",
+    title: "Neural Network Design",
+    author: "Martin T. Hagan",
+    category: "Machine Learning",
+    language: "General",
+    pages: 1012,
+    year: 1995,
+    description: "Neural Network Design by Martin T. Hagan is a practical guide to designing, training, and implementing neural networks for real-world applications.",
+    downloadLink: "https://github.com/avinash201199/Free-programming-books/tree/main/Machine%20Learning",
+    level: "Advanced",
+    tags: ["Deep Learning", "Neural Networks", "AI"]
+  },
+
 
   // AI Books
   {
