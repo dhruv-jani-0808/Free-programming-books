@@ -328,8 +328,7 @@ export const books: Book[] = [
     level: "Advanced",
     tags: ["Deep Learning", "Neural Networks", "AI"]
   },
-  {
-  "id": "ml-4",
+  {  "id": "ml-4",
   "title": "Mathematics for Machine Learning",
   "author": "Marc Peter Deisenroth, A. Aldo Faisal, Cheng Soon Ong",
   "category": "Machine Learning",
@@ -342,7 +341,32 @@ export const books: Book[] = [
   "tags": ["MachineLearning", "Mathematics", "Optimization", "MLAlgorithms"],
   "featured": true
 },
-
+  {
+    id: "ml-5",
+    title: "Neural Networks",
+    author: "Simon Haykin",
+    category: "Machine Learning",
+    language: "General",
+    pages: 823,
+    year: 2005,
+    description: "Neural Networks: A Comprehensive Foundation is a complete guide to understanding, designing, and applying neural networks in theory and practice.",
+    downloadLink: "https://github.com/avinash201199/Free-programming-books/tree/main/Machine%20Learning",
+    level: "Advanced",
+    tags: ["Deep Learning", "Neural Networks", "AI"]
+  },
+  {
+    id: "ml-6",
+    title: "Neural Network Design",
+    author: "Martin T. Hagan",
+    category: "Machine Learning",
+    language: "General",
+    pages: 1012,
+    year: 1995,
+    description: "Neural Network Design by Martin T. Hagan is a practical guide to designing, training, and implementing neural networks for real-world applications.",
+    downloadLink: "https://github.com/avinash201199/Free-programming-books/tree/main/Machine%20Learning",
+    level: "Advanced",
+    tags: ["Deep Learning", "Neural Networks", "AI"]
+  },
   // AI Books
   {
     id: "ai-1",
