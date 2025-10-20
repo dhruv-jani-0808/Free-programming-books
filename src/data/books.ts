@@ -205,6 +205,19 @@ export const books: Book[] = [
     tags: ["HTML", "CSS", "Web Design", "Beginner"]
   },
   {
+    id: "Flutter-1",
+    title: "Beginning Flutter A hands on guide to app development",
+    author: "Marco L. Napoli",
+    category: "Flutter Development",
+    language: "dart",
+    pages: 531,
+    year: 2020,
+    description: "A hands on guide to app development",
+    downloadLink: "https://digilib.stekom.ac.id/assets/dokumen/ebook/feb_3872ce7467cbdc7beedfcdc12b2b607b0ba36429_1649057575.pdf",
+    level: "Beginner",
+    tags: ["app development", "dart", "Flutter", "Beginner"]
+  },
+  {
     id: "web-5",
     title: "Node.js Design Patterns",
     author: "Mario Casciaro",
@@ -654,7 +667,7 @@ export const categories = [
   "Computer Networking",
   "Interview Preparation",
   "Competitive Programming",
-  "Database Management",
+  "Flutter Development"
 ];
 
 export const languages = [
@@ -665,7 +678,8 @@ export const languages = [
   "C++",
   "Kotlin",
   "HTML/CSS",
-  "General",
+  "dart",
+  "General"
 ];
 
 export const levels = ["Beginner", "Intermediate", "Advanced", "All Levels"];
