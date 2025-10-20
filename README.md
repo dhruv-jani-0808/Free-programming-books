@@ -85,3 +85,6 @@ This project lists books and other resources grouped by genres:
 ### License
 
 Each file included in this repository is licensed under the [CC BY License](LICENSE).
+<br>
+This repository is created for all book lovers . You can download any book you want to read and master that skill to show case in your career.<br><br>
+If you have some e-books and want to share with others then you can upload it here.Your contribution will be welcomed always !
