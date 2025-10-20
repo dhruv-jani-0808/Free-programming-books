@@ -558,18 +558,20 @@ export const books: Book[] = [
     level: "Intermediate",
     tags: ["Interview", "Coding", "Problem Solving"]
   },
+
+  // Competitive Programming
   {
-    id: "interview-3",
-    title: "Cracking the Machine Learning Interview",
-    author: "Nitin Suri",
-    category: "Interview Preparation",
-    language: "Python",
-    pages: 135,
-    year: 2018,
-    description: "225 Machine Learning Interview Questions with Solutions.",
-    downloadLink: "https://github.com/avinash201199/Free-programming-books/tree/main/Interview",
+    id: "competitiveprogramming-1",
+    title: "Competitive Programmer's Handbook",
+    author: "Antti Laaksonen",
+    category: "Competitive Programming",
+    language: "General",
+    pages: 300,
+    year: 2019,
+    description: "A modern introduction to competitive programming.",
+    downloadLink: "https://github.com/pllk/cphb/",
     level: "Intermediate",
-    tags: ["Interview", "Coding", "Problem Solving", "Python"]
+    tags: ["Competitive Programming"]
   }
 ];
 
