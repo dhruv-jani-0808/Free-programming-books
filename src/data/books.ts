@@ -329,32 +329,18 @@ export const books: Book[] = [
     tags: ["Deep Learning", "Neural Networks", "AI"]
   },
   {
-  id: "ml-4",
-  title: "Mathematics for Machine Learning",
-  author: "Marc Peter Deisenroth, A. Aldo Faisal, Cheng Soon Ong",
-  category: "Machine Learning",
-  language: "General",
-  pages: 417,
-  year: 2020,
-  level: "All Levels",
-  description: "the foundational tools and concepts of mathematics needed to understand and develop machine learning algorithms",
-  downloadLink: "https://github.com/avinash201199/Free-programming-books/blob/main/Machine%20Learning/mathematics%20for%20ml.pdf",
-  tags: ["MachineLearning", "Mathematics", "Optimization", "MLAlgorithms"],
-  featured: true
-},
-{
-  id: "ml-5",
-  title: "The Little Book of Deep Learning",
-  author: "François Fleuret",
-  category: "Machine Learning",
-  language: "General",
-  pages: 129,
-  year: 2023,
-  level: "Intermediate",
-  description: "A concise and practical introduction to deep learning, covering fundamental concepts, architectures, and techniques in a clear and accessible manner for practitioners and students.",
-  downloadLink: "https://fleuret.org/public/lbdl.pdf",
-  tags: ["DeepLearning", "NeuralNetworks", "MachineLearning", "AI", "Practical"],
-  featured: true
+  "id": "ml-4",
+  "title": "Mathematics for Machine Learning",
+  "author": "Marc Peter Deisenroth, A. Aldo Faisal, Cheng Soon Ong",
+  "category": "Machine Learning",
+  "language": "General",
+  "pages": 417,
+  "year": 2020,
+  "level": "All Levels",
+  "description": "the foundational tools and concepts of mathematics needed to understand and develop machine learning algorithms",
+  "downloadLink": "https://github.com/avinash201199/Free-programming-books/blob/main/Machine%20Learning/mathematics%20for%20ml.pdf",
+  "tags": ["Machine Learning", "Mathematics", "Optimization", "ML Algorithms"],
+  "featured": true
 },
 
   // AI Books
@@ -666,20 +652,21 @@ export const books: Book[] = [
     level: "Intermediate",
     tags: ["DataBase", "DB", "Web dev"]
   },
+  // Operating System
   {
-  id: "dbms-2",
-  title: "Database Management Systems (3rd Edition)",
-  author: "Raghu Ramakrishnan, Johannes Gehrke",
-  category: "Database Management",
-  language: "General",
-  pages: 1098,
-  year: 2003,
-  description: "Comprehensive guide covering database design, storage, and query processing concepts used in modern DBMS systems.",
-  downloadLink: "https://github.com/avinash201199/Free-programming-books/tree/main/DBMS",
-  level: "Advanced",
-  tags: ["DBMS", "Databases", "SQL", "Data Management"],
-}
-
+    id: "operating-system-1",
+    title: "Operating Systems: Three Easy Pieces",
+    author: "Remzi H. Arpaci-Dusseau",
+    category: "Operating System",
+    language: "General",
+    pages: 643,
+    year: 2014,
+    description: "Comprehensive textbook covering core OS concepts like virtualization, concurrency, and persistence.",
+    downloadLink: "https://github.com/avinash201199/Free-programming-books/tree/main/Operating%20Systems",
+    level: "All Levels",
+    tags: ["Operating Systems"],
+    
+  },
 ];
 
 export const categories = [
@@ -699,7 +686,8 @@ export const categories = [
   "Computer Networking",
   "Interview Preparation",
   "Competitive Programming",
-  "Flutter Development"
+  "Flutter Development",
+  "Operating System",
 ];
 
 export const languages = [
