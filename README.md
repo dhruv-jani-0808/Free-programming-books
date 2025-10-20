@@ -8,9 +8,9 @@
 
 </div>
 
-Search the list at [https://ebookfoundation.github.io/free-programming-books-search/](https://ebookfoundation.github.io/free-programming-books-search/) [![https://ebookfoundation.github.io/free-programming-books-search/](https://img.shields.io/website?style=flat&logo=www&logoColor=whitesmoke&label=Dynamic%20search%20site&down_color=red&down_message=down&up_color=green&up_message=up&url=https%3A%2F%2Febookfoundation.github.io%2Ffree-programming-books-search%2F)](https://ebookfoundation.github.io/free-programming-books-search/).
+Search the list at [https://ebookfoundation.github.io/free-programming-books-search/](https://ebookfoundation.github.io/free-programming-books-search/).
 
-This page is available as an easy-to-read website. Access it by clicking on [![https://ebookfoundation.github.io/free-programming-books/](https://img.shields.io/website?style=flat&logo=www&logoColor=whitesmoke&label=Static%20site&down_color=red&down_message=down&up_color=green&up_message=up&url=https%3A%2F%2Febookfoundation.github.io%2Ffree-programming-books%2F)](https://ebookfoundation.github.io/free-programming-books/).
+This page is available as an easy-to-read website. Access it by clicking [here](https://ebookfoundation.github.io/free-programming-books/).
 
 <div align="center">
   <form action="https://ebookfoundation.github.io/free-programming-books-search">
@@ -43,8 +43,45 @@ The [Free Ebook Foundation](https://ebookfoundation.org) now administers the rep
 
 Please read [CONTRIBUTING](docs/CONTRIBUTING.md). If you're new to GitHub, [welcome](docs/HOWTO.md)! Remember to abide by our adapted from ![Contributor Covenant 1.3](https://img.shields.io/badge/Contributor%20Covenant-1.3-4baaaa.svg) [Code of Conduct](docs/CODE_OF_CONDUCT.md) too ([translations](#translations) also available).
 
-...
+Click on these badges to see how you might be able to help:
 
-## License
+<div align="center" markdown="1">
+
+[![GitHub repo Issues](https://img.shields.io/github/issues/EbookFoundation/free-programming-books?style=flat&logo=github&logoColor=red&label=Issues)](https://github.com/EbookFoundation/free-programming-books/issues)&#160;
+[![GitHub repo Good Issues for newbies](https://img.shields.io/github/issues/EbookFoundation/free-programming-books/good%20first%20issue?style=flat&logo=github&logoColor=green&label=Good%20First%20issues)](https://github.com/EbookFoundation/free-programming-books/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22)&#160;
+[![GitHub Help Wanted issues](https://img.shields.io/github/issues/EbookFoundation/free-programming-books/help%20wanted?style=flat&logo=github&logoColor=b545d1&label=%22Help%20Wanted%22%20issues)](https://github.com/EbookFoundation/free-programming-books/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22)    
+[![GitHub repo PRs](https://img.shields.io/github/issues-pr/EbookFoundation/free-programming-books?style=flat&logo=github&logoColor=orange&label=PRs)](https://github.com/EbookFoundation/free-programming-books/pulls)&#160;
+[![GitHub repo Merged PRs](https://img.shields.io/github/issues-search/EbookFoundation/free-programming-books?style=flat&logo=github&logoColor=green&label=Merged%20PRs&query=is%3Amerged)](https://github.com/EbookFoundation/free-programming-books/pulls?q=is%3Apr+is%3Amerged)&#160;
+[![GitHub Help Wanted PRs](https://img.shields.io/github/issues-pr/EbookFoundation/free-programming-books/help%20wanted?style=flat&logo=github&logoColor=b545d1&label=%22Help%20Wanted%22%20PRs)](https://github.com/EbookFoundation/free-programming-books/pulls?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22)
+
+</div>
+
+## Resources
+
+This project lists books and other resources grouped by genres:
+
+### Books
+
+[English, By Programming Language](books/free-programming-books-langs.md)  
+[English, By Subject](books/free-programming-books-subjects.md)  
+
+#### Other Languages
+
++ [Arabic / العربية](books/free-programming-books-ar.md)
++ [Bengali / বাংলা](books/free-programming-books-bn.md)
++ [Chinese / 中文](books/free-programming-books-zh.md)
++ [French / français](books/free-programming-books-fr.md)
++ [German / Deutsch](books/free-programming-books-de.md)
++ [Hindi / हिन्दी](books/free-programming-books-hi.md)
++ [Italian / italiano](books/free-programming-books-it.md)
++ [Japanese / 日本語](books/free-programming-books-ja.md)
++ [Korean / 한국어](books/free-programming-books-ko.md)
++ [Portuguese (Brazil)](books/free-programming-books-pt_BR.md)
++ [Russian / Русский язык](books/free-programming-books-ru.md)
++ [Spanish / español](books/free-programming-books-es.md)
++ [Urdu / اردو](books/free-programming-books-ur.md)
++ ... *[Many more languages](books/README.md#other-languages)* ...
+
+### License
 
 Each file included in this repository is licensed under the [CC BY License](LICENSE).
